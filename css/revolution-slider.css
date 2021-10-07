@@ -424,7 +424,7 @@
 .tp-caption a {
    color: #ff7302;
    text-shadow: none;
-   -webkit-transition: all .2s ease-out;
+   transition: all .2s ease-out;
    -moz-transition: all .2s ease-out;
    -o-transition: all .2s ease-out;
    -ms-transition: all .2s ease-out
