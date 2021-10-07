@@ -50,7 +50,7 @@
    cursor: url(../img/grabbing.png) 8 8, move
 }
 .owl-carousel .owl-item, .owl-carousel .owl-wrapper {
-   -webkit-backface-visibility: hidden;
+   -webkit-font-smoothin: hidden;
    -moz-backface-visibility: hidden;
    -ms-backface-visibility: hidden;
    -webkit-transform: translate3d(0, 0, 0);
